@@ -7,11 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I'd like to create a form for users to submit to the database team to request the different types of data service requests needed,
+and then be able to track them to completion, and be able to retrieve them for analysis, etc.
 ### Features
-Include Features here
+User login
+CRUD
 ### Technologies
-Include Technologies here
+-HTML
+-CSS
+-MySQL
+-Python
+-Django
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll need to learn MySQL, as well as Django.
