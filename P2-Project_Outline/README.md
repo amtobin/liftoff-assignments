@@ -7,17 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I'd like to create a form for users to submit to the database team to request the different types of data service requests needed,
-and then be able to track them to completion, and be able to retrieve them for analysis, etc.
+Currently, if anyone in my department needs any information from the database team, ie. mailing lists, reports, etc. they either submit a very confusing infopath form or send an email because they don't want to use the infopath form.
+I'd like to create an easy to use form, and track the progress of each request.  The users requesting the information will be able to see when the report will be completed, and the users completing the requests will be able to view their assignments
+or tasks assigned to them for completion. Priority status' can be added to alert the database team of an urgent request.
+
 ### Features
-User login
-CRUD
+User login - users will have their own account and profile, with their respective requests or assignments
+Database - create, read, update 
+
+
 ### Technologies
--HTML
--CSS
+
 -MySQL
--Python
--Django
+-C#
+-ASP.NET
+-Razor Templates
+-HTML/CSS
 
 ### What I'll Have to Learn
-I'll need to learn MySQL, as well as Django.
+I'll need to learn MySQL, 
