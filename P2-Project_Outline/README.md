@@ -12,8 +12,12 @@ I'd like to create an easy to use form, and track the progress of each request. 
 or tasks assigned to them for completion. Priority status' can be added to alert the database team of an urgent request.
 
 ### Features
-User login - users will have their own account and profile, with their respective requests or assignments
-Database - create, read, update 
+As a user I want to be able to login so that I can access my user profile using user authentication.
+As a user I also want to be able to submit an online form, and have the information write to a database. I'd also like
+the data requests I've submitted to the database team to display as a list on my home page.
+As a user who will fulfill the data requests I want to be able to access the database requests I need to complete, and be notified
+via email when a new request has been submitted.
+
 
 
 ### Technologies
@@ -25,4 +29,4 @@ Database - create, read, update
 -HTML/CSS
 
 ### What I'll Have to Learn
-I'll need to learn MySQL, 
+I'll need to learn MySQL
